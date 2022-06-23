@@ -1,4 +1,4 @@
-// DECLARING A FUNCTION
+
 function vowelIs(givenArray) {
     let vowels = ["a", "e", "i", "o", "u"];
     let newVowelArr = [""]
