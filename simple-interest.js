@@ -1,3 +1,5 @@
+
+// Simple interest calculation
 function simpleInterest(p,t,r){
     var simpleInyerestCalculation=(p*t*r)/100;
     return simpleInyerestCalculation;
